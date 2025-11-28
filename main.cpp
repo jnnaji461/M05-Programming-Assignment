@@ -1,7 +1,7 @@
 /* Program name: Beverage Classification System.cpp
 Author: Judith Nnaji
 Date: 11/29/2025
-Purpose:
+Purpose: The program demonstrate object-oriented programming principles with an inheritance hierarchy for different beverage types.
 */
 
 #include <iostream>
@@ -266,4 +266,5 @@ int main() {
     cout << "Energy Drink Sweetener: " << energy.getSweetener() << endl;
 
     return 0;
+
 }
